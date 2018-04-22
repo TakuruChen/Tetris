@@ -1,6 +1,6 @@
 # Tetris
 
-class project for designing a Tetris AI, using alpha-beat pruning
+class project for designing a Tetris AI, using alpha-beta pruning
 
 ##  content ##
 * main.cpp：  draw a board and main decision process<br>
